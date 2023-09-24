@@ -1,6 +1,5 @@
 
 import java.util.Scanner;
-
 public class BirthMonth {
     //num birthMonth = 0
     //

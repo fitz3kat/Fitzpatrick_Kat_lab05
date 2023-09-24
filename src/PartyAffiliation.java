@@ -1,21 +1,20 @@
 import java.util.Scanner;
 public class PartyAffiliation {
-
     //string party = ""
     //
-    //		output "Please enter your party affiliation, Democrat, Republican, or Independent [D, R, I]: "
-    //		input party
+    //	output "Please enter your party affiliation, Democrat, Republican, or Independent [D, R, I]: "
+    //	input party
     //
-    //		if party == "D" then
-    //			output "You get a Democrat Donkey!"
+    //	if party == "D" then
+    //		output "You get a Democrat Donkey!"
     //
-    //		else If party == "R" then
-    //			output "You get a Republican Elephant!"
+    //	else If party == "R" then
+    //		output "You get a Republican Elephant!"
     //
-    //		else
-    //			output "You get an Independent Man!"
+    //	else
+    //		output "You get an Independent Man!"
     //
-    //		endIf
+    //	endIf
     public static void main(String[] args)
     {
         Scanner scanner = new Scanner(System.in);

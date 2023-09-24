@@ -1,21 +1,21 @@
 import java.util.Scanner;
 public class ShipCostCalculator {
     //num itemPrice = 0
-    //		num shippingCost = 0
-    //		num totalPrice = 0
+    //	num shippingCost = 0
+    //	num totalPrice = 0
     //
-    //		output "Please enter the price of your item: "
-    //		input itemPrice
+    //	output "Please enter the price of your item: "
+    //	input itemPrice
     //
-    //		if itemPrice >= 100 then
-    //			output "Shipping is free! Your total cost is " + itemPrice
+    //	if itemPrice >= 100 then
+    //		output "Shipping is free! Your total cost is " + itemPrice
     //
-    //		else
-    //			shippingCost = itemPrice * .2
-    //			totalPrice = shippingCost + itemPrice
-    //			output "The cost of shipping is " + shippingCost + "your total cost is " + totalCost
+    //	else
+    //		shippingCost = itemPrice * .2
+    //		totalPrice = shippingCost + itemPrice
+    //		output "The cost of shipping is " + shippingCost + "your total cost is " + totalCost
     //
-    //		endIF
+    //	endIF
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

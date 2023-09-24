@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class NumCompare {
     //num numOne = 0
-    //		num numTwo = 0
+    //	num numTwo = 0
     //
     //		output "Please enter an integer: "
     //		input numOne
