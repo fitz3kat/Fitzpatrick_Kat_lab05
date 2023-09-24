@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class PartyAffiliation {
+
     //string party = ""
     //
     //		output "Please enter your party affiliation, Democrat, Republican, or Independent [D, R, I]: "

@@ -1,5 +1,13 @@
 import java.util.Scanner;
 public class TheaterKiosk {
+    //num age = 0
+    //
+    //		output "Please enter your age: "
+    //		input age
+    //
+    //		if age >= 21 then
+    //			output "You get a wristband!"
+    //		endIF
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

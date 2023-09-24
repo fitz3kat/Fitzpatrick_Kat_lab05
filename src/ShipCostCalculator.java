@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class ShipCostCalculator {
     //num itemPrice = 0
     //		num shippingCost = 0
